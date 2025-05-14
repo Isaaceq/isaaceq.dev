@@ -94,7 +94,7 @@ export default function Home() {
           </ul>
           <div className="inset-shadow rounded-md">
             <a
-              href="https://vanilla-dv.delldesignsystem.com/2.12.0/index.html?path=/story/introduction--page"
+              href="https://premier-merchant-services.vercel.app/"
               target="_blank"
             >
               <Image
@@ -154,7 +154,7 @@ export default function Home() {
           </ul>
           <div className="inset-shadow rounded-md">
             <a
-              href="https://vanilla-dv.delldesignsystem.com/2.12.0/index.html?path=/story/introduction--page"
+              href="https://premier-merchant-services.vercel.app/"
               target="_blank"
             >
               <Image
