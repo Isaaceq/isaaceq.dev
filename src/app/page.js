@@ -94,7 +94,7 @@ export default function Home() {
           </ul>
           <div className="inset-shadow rounded-md">
             <a
-              href="https://premier-merchant-services.vercel.app/"
+              href="https://premier-fin.com/"
               target="_blank"
             >
               <Image
@@ -135,7 +135,7 @@ export default function Home() {
             <li className="flex justify-between items-center gap-4">
               <span className="font-medium">
                 <a
-                  href="https://premier-merchant-services.vercel.app/"
+                  href="https://premier-fin.com/"
                   target="_blank"
                 >
                   Premier Merchant Services
@@ -154,7 +154,7 @@ export default function Home() {
           </ul>
           <div className="inset-shadow rounded-md">
             <a
-              href="https://premier-merchant-services.vercel.app/"
+              href="https://premier-fin.com/"
               target="_blank"
             >
               <Image
